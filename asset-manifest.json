@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.29927f4c.css",
+    "main.js": "/portfolio-react/static/js/main.00d16a70.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio-react/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio-react/static/js/787.1ed0c42c.chunk.js",
+    "static/media/weather.png": "/portfolio-react/static/media/weather.f0d1ff15fd66992bba18.png",
+    "static/media/car.png": "/portfolio-react/static/media/car.a234e865f981defdd461.png",
+    "static/media/ToDo.png": "/portfolio-react/static/media/ToDo.102476aaf3bdfcd67ac6.png",
+    "static/media/Notekeep.png": "/portfolio-react/static/media/Notekeep.e0a61859be94aab88c83.png",
+    "static/media/clock.png": "/portfolio-react/static/media/clock.b8b7af36951392015524.png",
+    "static/media/portfolio.png": "/portfolio-react/static/media/portfolio.46cafdc981e7c25891e9.png",
+    "static/media/home-main.svg": "/portfolio-react/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/portfolio-react/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/AkshataResume.pdf": "/portfolio-react/static/media/AkshataResume.44bb83a36b297d3230f6.pdf",
+    "static/media/pre.svg": "/portfolio-react/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/portfolio-react/index.html",
+    "main.29927f4c.css.map": "/portfolio-react/static/css/main.29927f4c.css.map",
+    "main.00d16a70.js.map": "/portfolio-react/static/js/main.00d16a70.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio-react/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio-react/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29927f4c.css",
+    "static/js/main.00d16a70.js"
+  ]
+}
